@@ -1,15 +1,15 @@
 # Python_AutomationClass_Lec2
 두번째 수업은 첫번째 수업에서 배운 기본 자료형에 대한 처리를 위해 사용되는 여러가지 함수들에 대해 학습하고 간단한 연습문제를 풀었다.
 
-## 1. 문자열 함수
+## 1. 기본 자료형 함수
 
-## 2. 리스트 함수
+### 1.1. 문자열 함수
+### 1.2. 리스트 함수
+### 1.3. 튜플의 경우
 
-## 3. 튜플의 경우
+## 2. 함수
 
-## 4. 함수
-
-## 5. 연습문제
+## 3. 연습문제
 코드 원본은 github repository([https://github.com/dbsghtmd99/Python_AutomationClass_Lec2](https://github.com/dbsghtmd99/Python_AutomationClass_Lec2))에서 다운로드 받을 수 있다.
 
 ```python
